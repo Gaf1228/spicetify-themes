@@ -1,0 +1,52 @@
+button                  = FFF3C4
+button-disabled         = 939bb6
+
+highlight               = 9f45b0
+highlight-elevated      = 9f45b0 
+highlight               = 9d00ff
+highlight-elevated      = 9d00ff 
+
+shadow                  = 000000
+selected-row            = FFFFFF
+misc                    = 7F7F7F
+notification-error      = E22134 
+notification            = 4687d6
+tab-active              = 333333
+player                  = 181818
+
+[Orange]
+star                    = ffe234
+star-glow               = fff3ad
+shooting-star           = fff099
+shooting-star-glow      = fffcea
+
+main                    = 000000 ; becomes 100% transparent via javascript
+main-elevated           = e69138
+card                    = c37728
+
+sidebar                 = e69138 ; bottom part of sky
+sidebar-alt             = 000000 ; top part of sky
+
+text                    = FFFFFF
+subtext                 = FFFFFF
+
+button-active           = e06666
+button                  = fbe39b
+button-disabled         = 000000
+
+highlight               = 191919
+highlight-elevated      = e69138 
+
+shadow                  = 000000
+selected-row            = FFFFFF
+misc                    = f9f7db
+notification-error      = E22134 
+notification            = e69138
+tab-active              = 333333
+player                  = 181818
+
+[Sky]
+star                    = FFFFFF
+star-glow               = FFFFFF
+shooting-star           = FFFFFF
+shooting-star-glow      = FFFFFF
